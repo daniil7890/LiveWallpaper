@@ -1,0 +1,7 @@
+.build/
+build/
+dist/
+build.log
+.DS_Store
+*.xcodeproj/xcuserdata/
+.swiftpm/
