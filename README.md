@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <b>Русский</b> | <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/macOS-13%2B-black?logo=apple">
   <img src="https://img.shields.io/badge/Apple%20Silicon-arm64-7b2cbf">
   <img src="https://img.shields.io/badge/Swift-5.9-F05138?logo=swift&logoColor=white">
